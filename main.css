@@ -1,0 +1,6 @@
+body {
+  height: 100vh;
+  background: linear-gradient(red, blue);
+  color: white;
+  text-align: center;
+}
